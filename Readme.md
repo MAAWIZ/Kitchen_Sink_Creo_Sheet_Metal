@@ -31,4 +31,4 @@ The part was created utilizing a standard sheet metal top-down design methodolog
 
 ## Documentation
 * `Kitchen_Sink_GD&T.pdf`: Contains the 2D dimensional drawing and tolerancing.
-* `Kitchen_Sink_Gif.jpg`: Displays the final modeled part and the feature tree in the CAD environment.
+* `Kitchen_Sink_Gif.gif`: Displays the final modeled part and the feature tree in the CAD environment.
